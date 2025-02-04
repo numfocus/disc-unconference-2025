@@ -37,8 +37,8 @@ Based on our experiences, we would like to focus on the Global South for our 202
 
 ### Details
 
-- Location: São Paulo, Brazil; Online
-- Estimated Date: March 14-16, 2025.
+- Location: IBM Office in São Paulo, Brazil; Online
+- Date: March 14-16, 2025.
 
 The Unconference format is two and a half days of hands-on group collaboration, aiming to create and present the first versions of DEI education materials at the event's final session. Participants can propose specific topics they would like to work on before and during the event. Final topics for discussion will be selected, and working groups will be created at the start of Day One.
 
