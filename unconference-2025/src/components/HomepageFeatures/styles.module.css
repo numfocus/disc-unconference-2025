@@ -9,3 +9,11 @@
   height: 200px;
   width: 200px;
 }
+
+.svgLogo {
+  fill: currentColor;
+}
+
+[data-theme='dark'] .svgLogo {
+  fill: white;
+}
