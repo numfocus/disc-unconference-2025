@@ -58,3 +58,9 @@
   color: #fff; /* White text for dark mode */
   text-shadow: 0 0 1em #0394a3; /* Adjust shadow color if needed */
 }
+.navbar-sidebar__brand:hover{
+  background-color: #0394a3;
+}
+.menu__list-item:hover{
+  background-color: #0394a3;
+}
